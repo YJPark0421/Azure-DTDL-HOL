@@ -2,10 +2,16 @@
 
 ## 1️⃣ Overview
 ### ◽ Scenario of HOL 
-    초콜릿 제조 회사인 Contoso Chocolate에는 공장과 생산 라인이 하나씩 있습니다.
-    회사에서는 비용을 최소화하면서 증가하는 운영 작업에 가장 적합한 과정을 결정하려고 합니다.
-    회사의 올바른 성장 경로를 제시하라는 요청을 받았습니다.
-    Azure Digital Twins를 사용하여 회사 소유주가 어떠한 질문을 해도 체계적이고 강력한 답변을 제시할 수 있는 유연한 소프트웨어 솔루션을 구축하기로 결정했다.
+A chocolate manufacturing company, Contoso Chocolate, has one factory and one production line. Sales are going well, and you expect the company to grow. The company wants to determine the best course of action for growing operations while minimizing costs.
+For this scenario, the production of chocolate has been simplified into three steps: Roasting, Grinding, and Molding. The following image shows the production line:
+Cocoa beans are the input to this production line, and chocolate bars are the output!
+
+> 1. **Roasting:** The roasting process cooks fermented cocoa beans. The temperature and time of cooking depends on the type of beans, but typically the roasting (sometimes called fanning in the chocolate trade) might take 35 minutes at 250 to 300 degrees Fahrenheit. Roasting aids the removal of unwanted stuff, such as acetic acid, and the formation of the sweet taste of cocoa.
+> 2. **Grinding:** The grinding process takes the cocoa nibs that result from the roasting and crushes them to pieces, typically between steel plates, to create a liquid cocoa butter.
+> 3. **Molding:** The molding process cools the cocoa butter in molds, giving the desired shape: chocolate bars, egg shells, and figures. The following image shows roasted cocoa nibs:
+
+You've been asked to advise on the correct growth path for the company. You have decided to use Azure Digital Twins to build a software solution flexible enough that no matter what questions the company owners might ask, you'll have a scientific and robust answer.
+   
 ---    
    
 ### ◽ Objective
