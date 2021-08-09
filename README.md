@@ -52,9 +52,6 @@ page_type | languages | products
 
 ## 4️⃣ Reference
 
-> **GA Announcement**
-> - 
----
 > **ADT Related Github Page**
 > - [Digital Twins Definition Language (DTDL)](https://github.com/Azure/opendigitaltwins-dtdl/blob/master/DTDL/v2/dtdlv2.md)
 > - [Azure Digital Twin Demo with Azure Data explorer](https://github.com/ilseokoh/adt-adx-demo)
