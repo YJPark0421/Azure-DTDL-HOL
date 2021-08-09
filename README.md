@@ -56,34 +56,23 @@ page_type | languages | products
 <br>
 
 ## 4️⃣ Reference
+
 > **GA Announcement**
-> - [Azure Digital Twins now generally available: Create IoT solutions that model the real world](https://azure.microsoft.com/en-us/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/)
+> - 
 ---
-> **Domestic Case**
+> **ADT Related Github Page**
+> - [Digital Twins Definition Language (DTDL)](https://github.com/Azure/opendigitaltwins-dtdl/blob/master/DTDL/v2/dtdlv2.md)
+> - [Azure Digital Twin Demo with Azure Data explorer](https://github.com/ilseokoh/adt-adx-demo)
+---
+> **Ontology building for Industries**
+> - [RealEstateCore, a smart building ontology for digital twins, is now available](https://techcommunity.microsoft.com/t5/internet-of-things/realestatecore-a-smart-building-ontology-for-digital-twins-is/ba-p/1914794)
+> - [Smart Cities Ontology for Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things/smart-cities-ontology-for-digital-twins/ba-p/2166585)
+---
+> **Domestic Customer Use Case**
 > - [두산 풍력발전 디지털 트윈](https://customers.microsoft.com/en-us/story/848311-doosan-manufacturing-azure-digital-twins)
 ---
-> **Product Page**
-> - [Azure Digital Twins](https://azure.microsoft.com/en-us/services/digital-twins/)
-> - [Azure Digital Twins Preview Documentation](https://docs.microsoft.com/en-us/azure/digital-twins/)
-> - [Azure IoT Developer Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
----
-> **IoT Shows**
-> - [RealEstateCore, a smart building ontology for digital twins](https://channel9.msdn.com/Shows/Internet-of-Things-Show/RealEstateCore-a-smart-building-ontology-for-digital-twins)
-> - [Azure Digital Twins New Capabilities](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Azure-Digital-Twins-Preview-New-Capabilities?term=Azure%20Digital%20Twins&lang-en=true)
+> **Deep Dive Yotube Content**
+> - [Deep Dive: Azure Digital Twins for smart buildings: A look into WillowTwin solution](https://www.youtube.com/watch?v=Kbv1a_74FC0)
+> - [RealEstateCore, a smart building ontology for digital twins](https://www.youtube.com/watch?v=mN0pAvC2pAo&list=RDCMUCL7wy-iy_V76xxPnrIzGOZQ&index=3)
 > - [Deep Dive: Azure Digital Twins Updated Capabilities](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Deep-Dive-Azure-Digital-Twins-Updated-Capabilities)
 > - [Deep Dive: Integrating 3D Models and IoT data with iTwin and Azure Digital Twins](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Deep-Dive-Integrating-3D-Models-and-IoT-data-with-iTwin-and-Azure-Digital-Twins?term=Bentley&lang-en=true)
-> - [Bentley iTwin and iModel.js Integration with Azure Digital Twins](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Bentley-iTwin-and-iModeljs-Integration-with-Azure-Digital-Twins?term=Bentley&lang-en=true)
-> - [Ansys Twin Builder Integration with Azure Digital Twins](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Ansys-Twin-Builder-Integration-with-Azure-Digital-Twins?term=ANSYS&lang-en=true)
----
-> **Customer Stories**
-> - [Brookfield sets a new standard for innovation in real estate with WillowTwin and Azure Digital Twins](https://customers.microsoft.com/en-us/story/855907-brookfield-properties-professional-services-azure)
-> - [GE Aviation’s Digital Group builds a holistic source of truth with Azure Digital Twins](https://customers.microsoft.com/en-us/story/846315-ge-aviation-manufacturing-azure)
-> - [Bosch expands energy efficiency offerings with connected building solution using Azure Digital Twins](https://customers.microsoft.com/en-us/story/790031-bosch-building-technologies-smart-spaces-azure) 
-> - [Bentley Systems helps close the global productivity gap with Azure Digital Twins](https://customers.microsoft.com/en-us/story/806028-bentley-systems-partner-professional-services-azure)
-> - [Engineering simulation giant Ansys unlocks value and opportunity with Azure Digital Twins](https://customers.microsoft.com/en-us/story/795283-ansys-partner-professional-services-azure)
-> - [Steelcase Demonstrates the Smart and Connected Workplace with New IoT-Powered Solutions](https://customers.microsoft.com/en-us/story/steelcase-manufacturing-azureiot-en)
-> - [PCL Construction uses IoT with Azure to revolutionize the construction industry](https://customers.microsoft.com/en-us/story/pcl-construction-professional-services-azure)
----
-> **Ignite On-Demand Content**
->   - [Azure IoT services, roadmap and vision: from connected assets to connected environments](https://myignite.microsoft.com/sessions/8c90945c-eec6-43ed-b16a-3adf3c2ba37a)
->   - [Ask the Expert: Azure IoT: From connected assets to connected environments with Digital Twins](https://myignite.microsoft.com/sessions/aec5687c-d153-47e7-9dc5-5f2e3f536f0c)
