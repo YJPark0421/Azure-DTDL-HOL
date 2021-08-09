@@ -2,17 +2,18 @@
 
 ## 1️⃣ Overview
 ### ◽ Scenario of HOL 
-    초콜릿 공장의 공정 담당자라고 가정한다.
-    공장의 모든 공정작업(Fanning, Roasting, Grinding, Moulding)을 실시간으로 모니터링할 수 있는 대시보드를 구축하기로 했다.
-    
-    실시간 대시보드를 통해 궁금했던 사항들에 대한 데이터분석을 진행할 수 있었습니다. 
-    공정작업 = Roasting 경우, 온도 ≤ 65℃ 경우, ➡ 총 시간 (1일 간)
-    공정작업 = Grinding 경우, 도구 = 그라인더 경우, ➡ 평균 진동값 (2분 간) (공장 품질 기준 의거) 
-    공정작업 = Grinding 경우, 온도 ＞ 정상 경우, ➡ 모든 이벤트 (5일 간)
+    초콜릿 제조 회사인 Contoso Chocolate에는 공장과 생산 라인이 하나씩 있습니다.
+    회사에서는 비용을 최소화하면서 증가하는 운영 작업에 가장 적합한 과정을 결정하려고 합니다.
+    회사의 올바른 성장 경로를 제시하라는 요청을 받았습니다.
+    Azure Digital Twins를 사용하여 회사 소유주가 어떠한 질문을 해도 체계적이고 강력한 답변을 제시할 수 있는 유연한 소프트웨어 솔루션을 구축하기로 결정했다.
 ---    
    
 ### ◽ Objective
-   - [x] 유의미한 고장원인 분석 도출을 위해 지속적으로 많은 데이터수집이 필요합니다.
+   - [x] Create an instance of Azure Digital Twins by using the Azure portal.
+   - [x] Create digital models for the production line of a chocolate factory.
+   - [x] Validate the digital models by using the validator sample.
+   - [x] Create a graph of the models by using the Azure Digital Twins explorer sample.
+   - [x] Query the graph by using SQL-like queries.
 ---
 
 ### ◽ Development Environment
@@ -42,12 +43,7 @@ page_type | languages | products
 ## 3️⃣ Methodology
 ### ◽ A Step-By-Step Guide to Azure Digital Twin Test**
 > - [Guide 1 Build an Azure Digital Twins graph for a chocolate factory production line (90m)](https://docs.microsoft.com/ko-kr/learn/modules/build-azure-digital-twins-graph-for-chocolate-factory/)
-> - [Lab 1 Azure Digital Twin 만들기 (5분)]
-> - [Lab 2 Azure Digital Twin Explorer 설정 (15분)](
-> - [Lab 3 ADT 모델 만들기 (10분)]
-> - [Lab 4 Function으로 이벤트 입력 (25분)]
-> - [Lab 5 ADT에서 다른 환경으로 데이터 라우팅 (25분)]
-> - [Lab 6 Time Series Insights로 Visualize (10분)]
+> - [HOL 1 Azure Digital Twin HOL(180m)](https://github.com/ilseokoh/iot-hol/tree/master/ADT)
 ---
 <br>
 
