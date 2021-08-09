@@ -58,7 +58,6 @@ page_type | languages | products
 ## 4️⃣ Reference
 > **GA Announcement**
 > - [Azure Digital Twins now generally available: Create IoT solutions that model the real world](https://azure.microsoft.com/en-us/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/)
-> - [Bring your Digital Twins solutions to production with Azure](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Bring-your-Digital-Twins-solutions-to-production-with-Azure)
 ---
 > **Domestic Case**
 > - [두산 풍력발전 디지털 트윈](https://customers.microsoft.com/en-us/story/848311-doosan-manufacturing-azure-digital-twins)
