@@ -76,10 +76,5 @@
 > - [PCL Construction uses IoT with Azure to revolutionize the construction industry](https://customers.microsoft.com/en-us/story/pcl-construction-professional-services-azure)
 ---
 > **Ignite On-Demand Content**
-> > Azure IoT services, roadmap and vision: from connected assets to connected environments
-> > > Sam George, Microsoft Ignite
-> > > - [Azure IoT services, roadmap and vision: from connected assets to connected environments](https://myignite.microsoft.com/sessions/8c90945c-eec6-43ed-b16a-3adf3c2ba37a)
----
-> **Ask the Expert: Azure IoT: From connected assets to connected environments with Digital Twins**
-> > Christian Schormann, Ines Khelifi, Paul DeCarlo, Microsoft Ignite
-> > - [Ask the Expert: Azure IoT: From connected assets to connected environments with Digital Twins](https://myignite.microsoft.com/sessions/aec5687c-d153-47e7-9dc5-5f2e3f536f0c)
+>   - [Azure IoT services, roadmap and vision: from connected assets to connected environments](https://myignite.microsoft.com/sessions/8c90945c-eec6-43ed-b16a-3adf3c2ba37a)
+>   - [Ask the Expert: Azure IoT: From connected assets to connected environments with Digital Twins](https://myignite.microsoft.com/sessions/aec5687c-d153-47e7-9dc5-5f2e3f536f0c)
