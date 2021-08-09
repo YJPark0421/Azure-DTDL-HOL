@@ -41,12 +41,13 @@ page_type | languages | products
 
 ## 3️⃣ Methodology
 ### ◽ A Step-By-Step Guide to Azure Digital Twin Test**
-> - [Lab 1 Azure Digital Twin 만들기 (5분)](lab1-adt-basic.md)
-> - [Lab 2 Azure Digital Twin Explorer 설정 (15분)](lab2-setup-model.md)
-> - [Lab 3 ADT 모델 만들기 (10분)](lab3-adt-model.md)
-> - [Lab 4 Function으로 이벤트 입력 (25분)](lab4-ingest-event.md)
-> - [Lab 5 ADT에서 다른 환경으로 데이터 라우팅 (25분)](lab5-adt-route.md)
-> - [Lab 6 Time Series Insights로 Visualize (10분)](lab6-visualize-tsi.md)
+> - [Guide 1 Build an Azure Digital Twins graph for a chocolate factory production line (90m)](https://docs.microsoft.com/ko-kr/learn/modules/build-azure-digital-twins-graph-for-chocolate-factory/)
+> - [Lab 1 Azure Digital Twin 만들기 (5분)]
+> - [Lab 2 Azure Digital Twin Explorer 설정 (15분)](
+> - [Lab 3 ADT 모델 만들기 (10분)]
+> - [Lab 4 Function으로 이벤트 입력 (25분)]
+> - [Lab 5 ADT에서 다른 환경으로 데이터 라우팅 (25분)]
+> - [Lab 6 Time Series Insights로 Visualize (10분)]
 ---
 <br>
 
