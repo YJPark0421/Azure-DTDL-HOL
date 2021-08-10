@@ -9,7 +9,7 @@ page_type | languages | products
 ---
 
 ### ◽ Architecture
-![AzureDigitalTwins_Architecture](https://user-images.githubusercontent.com/88306533/128794979-4865d0aa-ac02-4e7d-ae46-03857d6301a2.png)
+<p align="left"> <img src="https://user-images.githubusercontent.com/88306533/128794979-4865d0aa-ac02-4e7d-ae46-03857d6301a2.png" width="90%" height="90%"></img></p>
 
 ---
 
@@ -24,7 +24,7 @@ page_type | languages | products
 ### ◽ Scenario of HOL : A chocolate manufacturing company(Contoso Chocolate) 
 The following image shows the production line:
 
-![chocolate-production-line](https://user-images.githubusercontent.com/88306533/128786638-a10562e3-748b-40a0-8b21-81e51c80451d.png)
+<p align="left"> <img src="https://user-images.githubusercontent.com/88306533/128786638-a10562e3-748b-40a0-8b21-81e51c80451d.png" width="60%" height="60%"></img></p>
 
 > 1. **Roasting:** The roasting process cooks fermented cocoa beans. The temperature and time of cooking depends on the type of beans, but typically the roasting (sometimes called fanning in the chocolate trade) might take 35 minutes at 250 to 300 degrees Fahrenheit. Roasting aids the removal of unwanted stuff, such as acetic acid, and the formation of the sweet taste of cocoa.
 > 2. **Grinding:** The grinding process takes the cocoa nibs that result from the roasting and crushes them to pieces, typically between steel plates, to create a liquid cocoa butter.
