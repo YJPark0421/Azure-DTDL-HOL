@@ -26,7 +26,7 @@ page_type | languages | products
 ---
 
 ### ◽ Architecture
-![실습 아키텍쳐](images/hol-architecture.png)
+![AzureDigitalTwins_Architecture](https://user-images.githubusercontent.com/88306533/128794979-4865d0aa-ac02-4e7d-ae46-03857d6301a2.png)
 
 ---
 <br>
