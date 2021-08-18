@@ -24,7 +24,7 @@ page_type | languages | products
 ### ◽ Scenario of HOL : A chocolate manufacturing company(Contoso Chocolate) 
 The following image shows the production line:
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/88306533/128786638-a10562e3-748b-40a0-8b21-81e51c80451d.png" width="60%" height="60%"></img></p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/88306533/128786638-a10562e3-748b-40a0-8b21-81e51c80451d.png" width="50%" height="50%"></img></p>
 
 > 1. **Roasting:** The roasting process cooks fermented cocoa beans. The temperature and time of cooking depends on the type of beans, but typically the roasting (sometimes called fanning in the chocolate trade) might take 35 minutes at 250 to 300 degrees Fahrenheit. Roasting aids the removal of unwanted stuff, such as acetic acid, and the formation of the sweet taste of cocoa.
 > 2. **Grinding:** The grinding process takes the cocoa nibs that result from the roasting and crushes them to pieces, typically between steel plates, to create a liquid cocoa butter.
@@ -34,13 +34,13 @@ The following image shows the production line:
 
 ## 2️⃣ PreRequirement
 ### ◽ Setup a development environment (Windows 10)
-> - [.NET Core 3.1](https://dotnet.microsoft.com/download)
-> - [Visual Studio Code](https://code.visualstudio.com/)
-> - [VS Code C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
-> - [VS Code Azure Function Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
-> - [Git 설치](https://git-scm.com/downloads)
-> - [Node.js 설치](https://nodejs.org/ko/download/)
-> - [Azure CLI 설치(옵션)](https://docs.microsoft.com/ko-kr/cli/azure/install-azure-cli)
+> - [Install **`.NET Core 3.1`**](https://dotnet.microsoft.com/download)
+> - [Install **`Visual Studio Code`**](https://code.visualstudio.com/)
+> - [Install VS Code **`C# Extension`**](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+> - [Install VS Code **`Azure Function Extension`**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+> - [Install **`Git`**](https://git-scm.com/downloads)
+> - [Install **`Node.js`**](https://nodejs.org/ko/download/)
+> - [Install **`Azure CLI 2.0`**](https://docs.microsoft.com/ko-kr/cli/azure/install-azure-cli)
 ---
 <br>
 
@@ -62,7 +62,7 @@ The following image shows the production line:
 > - [Smart Cities Ontology for Digital Twins](https://techcommunity.microsoft.com/t5/internet-of-things/smart-cities-ontology-for-digital-twins/ba-p/2166585)
 ---
 > **Domestic Customer Use Case**
-> - [두산 풍력발전 디지털 트윈](https://customers.microsoft.com/en-us/story/848311-doosan-manufacturing-azure-digital-twins)
+> - [Doosan Manufacturing Azure Digital Twins](https://customers.microsoft.com/en-us/story/848311-doosan-manufacturing-azure-digital-twins)
 ---
 > **Deep Dive Yotube Content**
 > - [Deep Dive: Azure Digital Twins for smart buildings: A look into WillowTwin solution](https://www.youtube.com/watch?v=Kbv1a_74FC0)
